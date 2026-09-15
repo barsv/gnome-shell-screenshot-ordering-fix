@@ -1,0 +1,7 @@
+{
+  "uuid": "gradia-screenshot-race-fix@stan",
+  "name": "Screenshot portal ordering fix",
+  "description": "Wait for screenshot saving before closing the GNOME 46 screenshot UI. Allows portal screenshots with animations disabled.",
+  "shell-version": ["46"],
+  "version": 1
+}
