@@ -1,3 +1,5 @@
+NOTE: it's a vibecoded fix for the issue that on GNOME there is a problem with screnshoting programs that use built-in GNOME Portal API to capture part of the screen. This line is the only one created by me. The rest is AI generated. The fix works perfectly.
+
 # GNOME 46 screenshot portal ordering fix
 
 On Ubuntu 24.04's GNOME Shell 46, disabling desktop animations can break
